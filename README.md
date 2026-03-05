@@ -15,7 +15,7 @@ I am currently working on an innovative web solution where university students i
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=a4alhaji&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+## Get Inspired by a Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
@@ -24,4 +24,4 @@ I am currently working on an innovative web solution where university students i
 ---
 [![](https://visitcount.itsvg.in/api?id=a4alhaji&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
