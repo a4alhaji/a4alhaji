@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on an innovative web solution where university students in the middle east can rate course professors before deciding on their classes.<br>I am a current computer science sophomore at the American University of Beirut<br>I am a student of the sciences with an intense artistic inclination.<br>When I am not programming I am being the best photographer I can be.
+<br>I am a current computer science sophomore at the American University of Beirut<br>I am a student of the sciences with an intense artistic inclination.<br>When I am not programming I am being the best photographer I can be.
 
 
 ## 🌐 Socials:
